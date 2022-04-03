@@ -2,12 +2,12 @@
 lab:
   title: ラボ 3.1:Dynamics 365 Customer Service で情報記事を作成して公開する
   module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
-ms.openlocfilehash: 3133819d99d9fbb317b731db313b1df7bcf8ebba
-ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.openlocfilehash: accc3885619d7949364937badba113de68163ce7
+ms.sourcegitcommit: 20016ceee38b42fe1b81573e65ab9cdb0d17eba2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137909093"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "141142002"
 ---
 <a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>モジュール 3: Dynamics 365 Customer Service の基礎について学習する
 ========================
@@ -26,9 +26,9 @@ ms.locfileid: "137909093"
 
 3. どの記事がさまざまな段階にあるかを簡単に確認するには、 **「自分のアクティブな記事」** の横にあるドロップダウン矢印を選択します。 
 
-4. **「下書き記事」** ビューを選択します。 
+4. **「下書き記事」** を選択します。 ドラフト モードで 2 つの記事が表示される可能性があります。
 
-5. **「承認済みの記事」** を選択します。 
+5. **「承認済みの記事」** を選択します。 承認済みの記事が少なくとも 1 つ表示されます。  
 
 6. **「自分のアクティブな記事」** に戻ります
 
@@ -60,9 +60,9 @@ ms.locfileid: "137909093"
 
     5. 「印刷」を選択する
 
-返品/破損したアイテムを受け取り次第、アカウントに返金されます。
+    返品/破損したアイテムを受け取り次第、アカウントに返金されます。
 
-**注:** 必要に応じて、テキストにフォーマットを追加できます。 
+    **注:** 必要に応じて、テキストにフォーマットを追加できます。 
 
 10. **コマンド バー** で、 **「保存」** ボタンを選択して情報記事を保存し、開いたままにします。 
 
@@ -90,7 +90,7 @@ ms.locfileid: "137909093"
 
 21. **「製品の関連付け」** ウィンドウで、 **「Office 365 for Enterprise (サンプル)」** を選択します。
 
-22. **「関連付け」** ボタンを選択します。 
+22. **[関連付け]** ボタンを選択します。 
 
 23. **「新しいプロセス」** で、**公開** ステージを選択します。 
 
@@ -115,5 +115,7 @@ ms.locfileid: "137909093"
     - **期限切れステータス:** 期限切れ
 
     - **承認された翻訳を公開する:** いいえ
+    
+29. **公開** ボタンをクリックして、記事を公開します。
 
 
