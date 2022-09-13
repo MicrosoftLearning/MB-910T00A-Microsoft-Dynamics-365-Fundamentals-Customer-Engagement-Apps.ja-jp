@@ -2,12 +2,12 @@
 lab:
   title: ラボ 2.1:Dynamics 365 Marketing でのセグメントの作成
   module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
-ms.openlocfilehash: 159f9c048a9dd746b9d0c83ee5692a5a648351de
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
+ms.openlocfilehash: 40c22a4ed1c45da04a0f1a686be6f8fa16b09a69
+ms.sourcegitcommit: 5d822ceab64fbb8615808dcdebeff848eec6ee25
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405022"
+ms.lasthandoff: 09/06/2022
+ms.locfileid: "147855074"
 ---
 <a name="module-2-learn-the-fundamentals-of-dynamics-365-marketing"></a>モジュール 2:Dynamics 365 Marketing の基礎を学ぶ
 ========================
@@ -41,7 +41,7 @@ ms.locfileid: "144405022"
 
 8. ゴースト テキスト **[Enter text]** を含む 3 番目のドロップダウンリストを選択し、「**レドモンド**」と入力します。
 
-9. クエリの上部にある **[名前]** フィールドをクリックして選択し、「**Remond Contacts**」と入力します。
+9. クエリの上部にある **[名前]** フィールドをクリックして選択し、「**Redmond Contacts**」と入力します。
 
 10. コマンド バーで **[保存]** を選択して、セグメントを保存します。
 
