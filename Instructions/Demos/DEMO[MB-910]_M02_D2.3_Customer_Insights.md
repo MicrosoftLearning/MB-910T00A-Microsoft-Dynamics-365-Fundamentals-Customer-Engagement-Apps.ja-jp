@@ -1,0 +1,76 @@
+---
+demo:
+  title: デモ:Customer Insights
+  module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
+ms.openlocfilehash: 5d652bda0bbf7bfd8768d090fc0362f55a424d65
+ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 04/29/2022
+ms.locfileid: "145884924"
+---
+# <a name="demo-customer-insights"></a>デモ:Customer Insights
+
+## <a name="instructions"></a>手順
+
+Dynamics 365 Customer Insights で利用可能な Audience Insights 機能を使用します。 組織は、すべての異なるデータ サイロからトランザクション、組織、および行動のデータを取得し、それを 1 つの統合された顧客プロファイルに組み合わせることができます。 この統合顧客プロファイルにより、顧客を全方位から確認することが可能になります。 
+
+ 
+
+1. [https://home.ci.ai.com](https://home.ci.ai.com/) に移動して、Customer Insights アプリケーションにアクセスします。
+
+ 
+
+2. Customer Insights で入手できる情報
+
+    - データを単一の顧客プロファイルに統合すると、顧客の完全な詳細ビューをすぐに表示できる。 
+
+    - これには以下が含まれます。 
+
+        - 統合された顧客プロファイルの詳細
+
+        - すべてのデータ サイロにわたるアクティビティのタイムライン
+
+        - 支出合計などの主要な指標と KPI
+
+        - ブランドの親和性や興味などのブランド エンリッチメント情報。 
+
+ 
+
+3. できること
+
+    - 顧客データをアプリケーションで簡単に利用する
+
+        - 顧客への配送
+
+        - 顧客リストのフィルター処理
+
+        - 顧客を検索する
+
+        - 顧客プロファイル レコードを開く
+
+ 
+
+- 顧客カードで利用できる情報を順を追って説明する
+
+    - アクティビティのタイムラインを表示する
+
+    - 顧客メジャーを説明する
+
+    - ブランドの親和性を説明する
+
+ 
+
+4. 情報を使用して顧客をターゲットにする
+
+    - セグメントを作成する
+
+        - セグメントの選択 – 新規の選択
+
+        - カスタム プロファイルからのセグメントを作成する
+
+        - カリフォルニアの顧客向けのセグメントを作成する
+
+- Dynamics 365 Marketing で使用するデータをエクスポートする
+
+ 
