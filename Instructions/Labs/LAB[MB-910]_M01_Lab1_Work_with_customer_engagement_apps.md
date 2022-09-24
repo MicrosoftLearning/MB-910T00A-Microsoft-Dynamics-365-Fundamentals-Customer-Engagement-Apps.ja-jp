@@ -1,14 +1,9 @@
 ---
 lab:
-  title: ラボ 1.1:顧客エンゲージメント アプリの使用
+  title: 'ラボ 1.1:顧客エンゲージメント アプリの使用'
   module: 'Module 1: Examine the core capabilities of Dynamics 365 (CRM)'
-ms.openlocfilehash: b480ae2128d5735172f1d005f2ecbfcb3b8a53f9
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405030"
 ---
+
 <a name="module-1-examine-the-core-capabilities-of-dynamics-365-crm"></a>モジュール 1:Dynamics 365 の主な機能を確認する (CRM)
 ========================
 
@@ -16,7 +11,7 @@ ms.locfileid: "144405030"
 
 ## <a name="objectives"></a>目標
 
-この演習では、まず環境にログインします。 次に、さまざまな Dynamics 365 アプリケーションに **ホーム** 画面から非常に簡単にアクセスできることを確認します。 アプリケーションを開いた後、必要に応じて別のアプリケーションに簡単に切り替えることができます。 Dynamics 365 アプリケーションへのアクセスと基本機能使用は、ユーザーが毎日行う操作です。
+During this exercise, you will first log into the environment. Then you can see that it is very easy to access the different Dynamics 365 applications available to you directly from the <bpt id="p1">**</bpt>Home<ept id="p1">**</ept> screen. Once you have opened an app, you can easily switch between the different applications as required. Accessing and using the basic functionality in Dynamics 365 applications is something you as a user will do daily.
 
 
 ## <a name="lab-setup"></a>ラボのセットアップ
@@ -29,9 +24,9 @@ ms.locfileid: "144405030"
 
 1. https://admin.Powerplatform.microsoft.com にアクセスし、自身のユーザー資格情報でログインします。
 
-2. スクラッチ用紙またはメモ帳に、@ 記号までユーザーの資格情報を記録します。 これは、Shared Dynamics 365 組織内で作成するデータを区別するために使用するラボのエイリアスになります。
+2. Record your user credential up to the @ symbol on a scratch piece of paper or in Notepad. This will be your lab alias that you will use to differentiate the data you create within the shared Dynamics 365 organization.
 
-重要: このテナントと Dynamics 365 組織は、従業員が組織に属する Dynamics 365 インスタンスを使用する場合にテナントを共有するように、教室内の他の受講者と共有されます。 レコードの作成時に PII (個人を特定できる情報) を使用しないでください。 また、作成したすべてのレコード、データ、アプリ、フローなどの前にユーザー名プレフィックス (例、mollyc) を使用することをお勧めします。
+Important: Please be aware that this tenant and the Dynamics 365 organization will be shared with the other students in your classroom, like employees would share a tenant when using the Dynamics 365 instance belonging to their organization. Do not use any PII (personally identifiable information) when creating records. It is also good practice to use your username prefix (ex., mollyc) in front of all records, data, apps, flows, etc. you create.
 
 Power Platform 管理センターを自由に探索できますが、変更はしないでください。
 
@@ -39,15 +34,15 @@ Power Platform 管理センターを自由に探索できますが、変更は�
 
 1. https://admin.powerplatform.microsoft.com/environments にアクセスします。
 
-2. WWLLABnnn 環境 (nnn は数値) を選択します。 これは、共有の Dynamics 365 環境で、ここですべてのラボを実行します。
+2. Select the WWLLABnnn environment, where nnn is a number. This is the shared Dynamics 365 environment where you will be performing all labs.
 
 3. [環境を開く] をクリックします
 
-4. 画面の左上にある [アプリ ランチャー] ドミノ ボタンを、Power Platform 管理センターの左に直接展開します。 Dynamics 365 Marketing アプリを選択して起動します。
+4. Expand the App Launcher domino button at the top left of the screen, directly to the left of Power Platform admin center. Select the Dynamics 365 Marketing app to launch it.
 
-5. 左側のナビゲーション ペインを確認します。 ペインの下部のボタンにより、領域を変更できます。 現在、[マーケティング] 領域が表示されています。
+5. この演習では、まず環境にログインします。
 
-6. ナビゲーション ペインの下部にある **[マーケティング]** を選択して、**[イベント]** 領域を選択します。 ナビゲーション ペインの **[イベント]** 領域を確認します。
+6. 次に、さまざまな Dynamics 365 アプリケーションに**ホーム**画面から非常に簡単にアクセスできることを確認します。
 
 7. 数分間アプリケーションを確認してから、[マーケティング] 領域に戻ります。
 
@@ -55,7 +50,7 @@ Power Platform 管理センターを自由に探索できますが、変更は�
 
 この演習では、Microsoft Office 365 アプリ画面を利用してさまざまな Dynamics 365 顧客エンゲージメント アプリケーションにアクセスする方法を理解します。
 
-1.  Web ブラウザーで、https://www.office.com/apps に移動します。 アクセスできるすべてのアプリケーションが表示されます。   
+1.  アプリケーションを開いた後、必要に応じて別のアプリケーションに簡単に切り替えることができます。   
 
 2.  **[ビジネス アプリ]** タブを選択して、Dynamics 365 ビジネス アプリケーションのみを表示するように表示されるアプリケーションを制限します。   
 
@@ -63,9 +58,9 @@ Power Platform 管理センターを自由に探索できますが、変更は�
  
 4.  **[営業ハブ]** というテキストを入力し、**[営業ハブ]** アプリを選択して開きます。   
 
-5. アプリ内にいるときは、何をしようとしているかに基づいて、さまざまな領域で作業できます。 たとえば、営業ハブ アプリケーションには、操作可能なさまざまな管理設定が含まれています。 
+5. Dynamics 365 アプリケーションへのアクセスと基本機能使用は、ユーザーが毎日行う操作です。 
 
-6. 画面の左下で、 **[営業]** というテキストを選択し、表示されるリストから **[アプリ設定]** を選択します。  アプリケーションのこの部分では、管理上の変更を加えることができます。  
+6. On the lower left side of the screen, select the text <bpt id="p1">**</bpt>Sales<ept id="p1">**</ept>, from the list that appears, select <bpt id="p2">**</bpt>App Settings<ept id="p2">**</ept>.  This part of the application is where you can make administrative changes to it.  
 
 7. エリア セレクターを再度選択し、**[アプリ設定]** から **[営業]** に戻します。
 

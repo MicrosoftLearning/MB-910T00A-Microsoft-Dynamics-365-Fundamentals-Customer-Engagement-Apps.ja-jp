@@ -1,14 +1,9 @@
 ---
 lab:
-  title: ラボ 5.1:Dynamics 365 Field Service で作業指示書を生成する
+  title: 'ラボ 5.1:Dynamics 365 Field Service で作業指示書を生成する'
   module: 'Module 5: Learn the Fundamentals of Dynamics 365 Field Service'
-ms.openlocfilehash: fa0e8af72df342a72267895d9318ce3f625633b5
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405096"
 ---
+
 <a name="module-5-learn-the-fundamentals-of-dynamics-365-field-service"></a>モジュール 5:Dynamics 365 Field Service の基礎を学ぶ
 ========================
 
@@ -22,7 +17,7 @@ ms.locfileid: "144405096"
 
 1. 左側のナビゲーションを使用して、**[作業指示書]** を選択します。
 
-2. **コマンド バー** で、**[新規]** を選択して、新しい作業指示書を作成します。
+2. **コマンド バー**で、**[新規]** を選択して、新しい作業指示書を作成します。
 
 3. 次のように作業指示書の詳細を入力します。
 

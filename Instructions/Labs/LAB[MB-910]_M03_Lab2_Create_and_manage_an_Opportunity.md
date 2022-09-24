@@ -1,14 +1,9 @@
 ---
 lab:
-  title: ラボ 3.2:Dynamics 365 Sales の営業案件の作成と管理
+  title: 'ラボ 3.2:Dynamics 365 Sales の営業案件の作成と管理'
   module: 'Module 3: Learn the Fundamentals of Dynamics 365 Sales'
-ms.openlocfilehash: 9ca894a3eeccfdabb5a7fab3a2adc59751f174d8
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405105"
 ---
+
 <a name="module-3-learn-the-fundamentals-of-dynamics-365-sales"></a>モジュール 3:Dynamics 365 Sales の基礎を学ぶ
 ========================
 
@@ -16,7 +11,7 @@ ms.locfileid: "144405105"
 
 ## <a name="objectives"></a>目標
 
-この演習では、Jim Glynn という既存の顧客への営業案件を手動で取得します。 彼は Adventure Work という会社で働いています。 システムで営業案件をキャプチャするだけでなく、Dynamics 365 Sales で利用可能なツールを使用して営業案件に取り組んで終了します。
+During this exercise, you will be manually capturing a sales opportunity for an existing customer named Jim Glynn. He works for a company called Adventure Work. Not only will you be capturing the opportunity in the system, but you will be using the tools available in Dynamics 365 Sales to work through and close the opportunity.
 
 
 ## <a name="lab-setup"></a>ラボのセットアップ
@@ -27,7 +22,7 @@ ms.locfileid: "144405105"
 
 この演習では、Dynamics 365 のホーム画面を使用してさまざまな Dynamics 365 Customer Engagement アプリケーションにアクセスする方法を理解します。 
 
-1. まだ開いていない場合、**Dynamics 365 営業ハブ** アプリケーションを開きます。 
+1. まだ開いていない場合、**Dynamics 365 営業ハブ**アプリケーションを開きます。 
 
 2. 画面の左側にあるナビゲーションを使用して、**[営業案件]** を選択します。 
 
@@ -47,7 +42,7 @@ ms.locfileid: "144405105"
 
     - **購入プロセス:** 個人
 
-5. レコードの上部にある **新しい営業案件ヘッダー** で、所有者フィールドの横の下矢印を選択します。 
+5. レコードの上部にある**新しい営業案件ヘッダー**で、所有者フィールドの横の下矢印を選択します。 
 
 6. 次のように入力します。
 
@@ -55,11 +50,11 @@ ms.locfileid: "144405105"
 
     - **推定収益:** 62500
 
-7. 上部にある **コマンド バー** で **[保存して閉じる]** を選択します。 
+7. 上部にある**コマンド バー**で **[保存して閉じる]** を選択します。 
 
-8. **自分のオープンしている営業案件** ビューで、前の演習でリードを評価するときに作成された **新規備品の検索** 営業案件を指定して開きます。 
+8. **自分のオープンしている営業案件**ビューで、前の演習でリードを評価するときに作成された**新規備品の検索**営業案件を指定して開きます。 
 
-9. レコードが、リードから営業案件への営業プロセスの営業案件の **開発** フェーズにあることに注意してください。 
+9. レコードが、リードから営業案件への営業プロセスの営業案件の**開発**フェーズにあることに注意してください。 
 
 10. レコードの上部にある **[Looking for new equipment opportunity]\(新規備品営業案件の検索\)** ヘッダーで、所有者フィールドの横の下矢印を選択します。 
 
@@ -71,11 +66,11 @@ ms.locfileid: "144405105"
 
 12. 関係者サブグリッドで、Suzanne Burke が関係者として既に定義されているのに注目してください。 
 
-13. 営業チーム サブグリッドで、**垂直の省略記号** を選択します。 表示されるメニューから **[新しい接続]** を選択します。 
+13. On the Sales Team sub-grid, select the <bpt id="p1">**</bpt>Vertical Ellipsis<ept id="p1">**</ept>. From the menu that appears select <bpt id="p1">**</bpt>New Connection<ept id="p1">**</ept>. 
 
-14. ユーザー レコードを検索して選択します。 完了したら、**[追加]** ボタンを選択します。 
+14. Search for and select your user record. Once completed, select the <bpt id="p1">**</bpt>Add<ept id="p1">**</ept> button. 
 
-15. 競合企業サブグリッドで、**垂直の省略記号** を選択します。 表示されるメニューから **[既存の競合企業を追加]** を選択します。 
+15. On the Competitors sub-grid, select the <bpt id="p1">**</bpt>Vertical Ellipsis<ept id="p1">**</ept>. From the menu that appears select <bpt id="p1">**</bpt>Add Existing Competitor<ept id="p1">**</ept>. 
 
 16. **[レコードの検索]** 画面で、**[新しいレコード]** を選択し、**[競合企業]** を選択します。
 
@@ -83,20 +78,20 @@ ms.locfileid: "144405105"
 
 18. **[保存して閉じる]** ボタンを選択します。
 
-19. レコードの検索ウィンドウで、**[Coho Technologies]** を選択する必要があります。 **[追加]** ボタンを選択して、競合企業の追加を終了します。 
+19. <bpt id="p1">**</bpt>Coho Technologies<ept id="p1">**</ept> should be selected in the lookup record window. Select the <bpt id="p1">**</bpt>Add<ept id="p1">**</ept> button to finishing adding the competitor. 
 
-20. **リードから営業案件** ビジネス プロセス フローで **開発** ステージを選択し、**関係者の特定** ステップと **競合企業の特定** ステップを両方とも **完了** に設定します。 
+20. **リードから営業案件**ビジネス プロセス フローで**開発**ステージを選択し、**関係者の特定**ステップと**競合企業の特定**ステップを両方とも**完了**に設定します。 
 
-21. **[次のステージ]** ボタンを選択して **提案** ステージに進みます。
+21. **[次のステージ]** ボタンを選択して**提案**ステージに進みます。
 
-22. **提案** ステージで、4 つのステップすべてに **完了** をマークし、**[次のステージ]** ボタンを選択て **クローズ** ステージに進みます。 
+22. **提案**ステージで、4 つのステップすべてに**完了**をマークし、**[次のステージ]** ボタンを選択て**クローズ**ステージに進みます。 
 
 23. **クローズ** ステージで、**[最終提案の完成]**、**[最終提案の表示]**、**[礼状の送信]**、**[報告の保存]** のステップを **[完了]** としてマークします。 
 
-24. **決定日の確認** を **今日の日付** に設定します。 
+24. **決定日の確認**を**今日の日付**に設定します。 
 
 25. **[完了]** をクリックします。 
 
-26. 業務プロセスが完了したので、営業案件をクローズする必要があります。 営業案件の **コマンド バー** で **[受注としてクローズ]** ボタンを選択します。 
+26. この演習では、Jim Glynn という既存の顧客への営業案件を手動で取得します。 
 
 27. **[営業案件のクローズ]** 画面で **[OK]** ボタンをクリックして営業案件レコードのクローズを完了します。 
