@@ -1,14 +1,9 @@
 ---
 lab:
-  title: ラボ 2.1:Dynamics 365 Marketing でのセグメントの作成
+  title: 'ラボ 2.1:Dynamics 365 Marketing でのセグメントの作成'
   module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
-ms.openlocfilehash: 40c22a4ed1c45da04a0f1a686be6f8fa16b09a69
-ms.sourcegitcommit: 5d822ceab64fbb8615808dcdebeff848eec6ee25
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 09/06/2022
-ms.locfileid: "147855074"
 ---
+
 <a name="module-2-learn-the-fundamentals-of-dynamics-365-marketing"></a>モジュール 2:Dynamics 365 Marketing の基礎を学ぶ
 ========================
 
@@ -16,7 +11,7 @@ ms.locfileid: "147855074"
 
 ## <a name="objectives"></a>目標
 
-この演習でわかるように、住所や興味などの一般的なデモグラフィック情報に基づいて、特定の取引先担当者の顧客セグメントをターゲットにすることは非常に簡単です。 顧客セグメントは顧客体験でターゲットにする取引先担当者を定義するなどの主要なマーケティング活動で使用されるため、Dynamics 365 Marketing では顧客セグメントの作成をよく行います。
+During this exercise you will see that it is very easy to create customer segments that target specific contacts based on common demographic information such as where they live or interests. The creation on customer segments in Dynamics 365 Marketing is extremely common because customer segments are used for key marketing activities such as defining the target contacts in Customer Journeys.
 
 ## <a name="lab-setup"></a>ラボのセットアップ
 

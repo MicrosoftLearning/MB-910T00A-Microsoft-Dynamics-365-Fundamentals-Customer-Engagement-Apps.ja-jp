@@ -1,14 +1,9 @@
 ---
 lab:
-  title: ラボ 1.2:顧客およびアクティビティを管理する
+  title: 'ラボ 1.2:顧客およびアクティビティを管理する'
   module: 'Module 1: Examine the core capabilities of Dynamics 365 (CRM)'
-ms.openlocfilehash: 886e0800f6747542fcd83ade072fb312ad922de4
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405029"
 ---
+
 <a name="module-1-examine-the-core-capabilities-of-dynamics-365-crm"></a>モジュール 1:Dynamics 365 の主な機能を確認する (CRM)
 ========================
 
@@ -16,7 +11,7 @@ ms.locfileid: "144405029"
 
 ## <a name="objectives"></a>目標
 
-Dynamics 365 アプリケーションでのアカウント レコードと連絡先レコードの定義と処理は、行う最も一般的なアクティビティの 1 つです。 アカウントと連絡先が作成されると、電話、タスク、予定などのアクティビティが、顧客とのやり取りを表します。
+Defining and working with account and contact records in Dynamics 365 applications is one of the most common activities you will do. Once accounts and contacts are created, activities such as phone calls, tasks, and appointments will represent the interactions that you have with your customers.
 
 ## <a name="lab-setup"></a>ラボのセットアップ
 
@@ -68,11 +63,11 @@ Dynamics 365 アプリケーションでのアカウント レコードと連絡
 
 9. **[保存]** ボタンを選択してレコードを保存し、開いたままにしておきます。 
 
-10. 画面の右側にある **連絡先サブグリッド** を見つけます。 
+10. 画面の右側にある**連絡先サブグリッド**を見つけます。 
 
-11. **垂直省略記号** を選択し、表示されるメニューから **[新しい連絡先]** を選択します。 
+11. **垂直省略記号**を選択し、表示されるメニューから **[新しい連絡先]** を選択します。 
 
-12. **連絡先の簡易作成** フォームを使用して、次のように連絡先を作成します。
+12. **連絡先の簡易作成**フォームを使用して、次のように連絡先を作成します。
 
     - **First Name (名):** Jackson
 
@@ -86,7 +81,7 @@ Dynamics 365 アプリケーションでのアカウント レコードと連絡
 
 14. 連絡先サブグリッドのすぐ上で、**[プライマリ連絡先]** フィールドを選択し、作成したばかりの **[Jackson Anderson]** の連絡先に設定します。 
 
-15. 画面の中央にある **レコード タイムライン** に移動して、**プラス記号** のアイコンを選択し、新しいアイテムを追加します。 
+15. 画面の中央にある**レコード タイムライン**に移動して、**プラス記号**のアイコンを選択し、新しいアイテムを追加します。 
 
 16. 表示されるメニューから **[予定]** を選択します。
 
@@ -106,7 +101,7 @@ Dynamics 365 アプリケーションでのアカウント レコードと連絡
 
 21. **[予定を開く]** リンクを選択します。 
 
-22. 予定レコードを開いた状態で、**コマンド バー** から **[完了としてマーク]** ボタンを選択して、予定を完了します。 
+22. 予定レコードを開いた状態で、**コマンド バー**から **[完了としてマーク]** ボタンを選択して、予定を完了します。 
 
 23. **[保存して閉じる]** ボタンを選択して、アカウン トレコードに戻ります。   
 
