@@ -1,14 +1,9 @@
 ---
 lab:
-  title: ラボ 4.1:Dynamics 365 Customer Service で情報記事を作成して公開する
+  title: 'ラボ 4.1:Dynamics 365 Customer Service で情報記事を作成して公開する'
   module: 'Module 4: Learn the Fundamentals of Dynamics 365 Customer Service'
-ms.openlocfilehash: 2e2c5b6947bb5b366c0daba9d37518981662b28b
-ms.sourcegitcommit: 5d822ceab64fbb8615808dcdebeff848eec6ee25
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 09/06/2022
-ms.locfileid: "147855085"
 ---
+
 <a name="module-4-learn-the-fundamentals-of-dynamics-365-customer-service"></a>モジュール 4:Dynamics 365 Customer Service の基礎を学ぶ
 ========================
 
@@ -28,13 +23,13 @@ ms.locfileid: "147855085"
 
 4. **[下書き記事]** を選択します。 
 
-5. **[承認済みの記事]** を選択します。 承認済みの記事が少なくとも 1 つ表示されます。  
+5. Select <bpt id="p1">**</bpt>Approved Articles<ept id="p1">**</ept>. You should see at least one approved article.  
 
 6. **[自分のアクティブな記事]** に戻ります
 
-7. **コマンド バー** で、**[新規]** ボタンを選択します。 
+7. **コマンド バー**で、**[新規]** ボタンを選択します。 
 
-8. 新しいレコードが開いたら、上部のレコード ヘッダーの **[状態の理由]** フィールドの横にあるドロップダウン矢印を選択します。 **[言語]** を [**英語 - 米国]** に設定します。
+8. After the new record opens, select the drop-down arrow next to the <bpt id="p1">**</bpt>Status reason<ept id="p1">**</ept> field in the record header at the top. Set <bpt id="p1">**</bpt>Language<ept id="p1">**</ept> to <bpt id="p2">**</bpt>English - United States<ept id="p2">**</ept>.
 
 9. 次のように入力して、記事を完成させます。
 
@@ -64,29 +59,29 @@ ms.locfileid: "147855085"
 
     **注:** 必要に応じて、テキストにフォーマットを追加できます。 
 
-11. **コマンド バー** で、**[保存]** ボタンを選択して情報記事を保存し、開いたままにします。 
+11. **コマンド バー**で、**[保存]** ボタンを選択して情報記事を保存し、開いたままにします。 
 
-12. **[新しいプロセス]** で、**作成者** ステージを選択し、**[記事の件名]** フィールドを **[配信]** ([サービス] の下にあります) に設定します。 
+12. **[新しいプロセス]** で、**作成者**ステージを選択し、**[記事の件名]** フィールドを **[配信]** ([サービス] の下にあります) に設定します。 
 
 13. **[レビュー対象としてマーク]** フィールドを **[完了]** に設定します。
 
 14. **[次のステージ]** ボタンを選択して、**レビュー** ステージに進みます。
 
-15. **コマンド バー** で、**[保存して閉じる]** ボタンを選択して変更を保存し、記事を閉じます。
+15. **コマンド バー**で、**[保存して閉じる]** ボタンを選択して変更を保存し、記事を閉じます。
 
-作成者が最初にレコードを作成した後、通常、ライブになる前に承認プロセスを経ます。 次に、承認者として記事を承認します。 
+After the author initially creates the record, it will generally go through an approval process before it is live. Next, we will act as an approver and approve the article. 
 
 16. 情報記事で、ビューを **[提案された記事]** に切り替えて、承認が必要な記事を確認します。 
 
 17. 作成した **[到着時に壊れたアイテム – あなたのイニシャル]** の記事を開きます。
 
-18. **[新しいプロセス]** で、**レビュー** ステージを選択します。 **[レビュー]** フィールドを **[承認済み]** に設定します。
+18. On the <bpt id="p1">**</bpt>New Process<ept id="p1">**</ept>, select the <bpt id="p2">**</bpt>Review<ept id="p2">**</ept> stage. Set the <bpt id="p1">**</bpt>Review<ept id="p1">**</ept> field to <bpt id="p2">**</bpt>Approved<ept id="p2">**</ept>.
 
 19. 記事の承認を確認するように求められたら、**[OK]** を選択します。 
 
 20. **[次のステージ]** ボタンを選択して **[公開]** ステージに進みます。 
 
-21. 記事の上部にある **コマンド バー** で、コマンド バーの左側にある **垂直の省略記号** を選択します。 表示されるメニューで、**[製品の関連付け]** を選択します。 
+21. On the <bpt id="p1">**</bpt>Command Bar<ept id="p1">**</ept> at the top of the article, select the <bpt id="p2">**</bpt>vertical ellipsis<ept id="p2">**</ept> at the left of the command bar. From the menu that appears, select <bpt id="p1">**</bpt>Relate Product<ept id="p1">**</ept>. 
 
 22. **[製品の関連付け]** ウィンドウで、**[Office 365 for Enterprise (サンプル)]** を選択します。
 
@@ -96,11 +91,11 @@ ms.locfileid: "147855085"
 
 25. **[製品の関連付けの設定]** を **[完了]** としてマークします。 
 
-26. **有効期限** を **本日から 1 年後の午前 12 時** に設定します。 
+26. **有効期限**を**本日から 1 年後の午前 12 時**に設定します。 
 
 27. **[完了]** ボタンを選択して、プロセスを完了します。 
 
-28. 記事の **コマンド バー** で、**[公開]** ボタンを選択します。 
+28. 記事の**コマンド バー**で、**[公開]** ボタンを選択します。 
 
 29. 以下が選択されていることを確認します。
 
@@ -116,6 +111,6 @@ ms.locfileid: "147855085"
 
     - **承認された翻訳を公開する:** いいえ
     
-30. **公開** ボタンをクリックして、記事を公開します。
+30. **公開**ボタンをクリックして、記事を公開します。
 
 
