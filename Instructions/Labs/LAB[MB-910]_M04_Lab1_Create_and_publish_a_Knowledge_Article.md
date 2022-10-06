@@ -19,17 +19,17 @@ lab:
 
 2. 画面の左側にあるナビゲーションを使用して、**[情報記事]** を選択します。 
 
-3. どの記事がさまざまな段階にあるかを簡単に確認するには、 **[自分のアクティブな記事]** の横にあるドロップダウン矢印を選択します。 
+3. どの記事がさまざまな段階にあるかを簡単に確認するには、 **[自分のアクティブな記事]** の横にあるドロップダウン矢印を選択します。 一覧にアクティブな記事がない可能性があることに注意してください。
 
 4. **[下書き記事]** を選択します。 
 
-5. Select <bpt id="p1">**</bpt>Approved Articles<ept id="p1">**</ept>. You should see at least one approved article.  
+5. **「承認済みの記事」** を選択します。 
 
-6. **[自分のアクティブな記事]** に戻ります
+6. **「自分のアクティブな記事」** に戻ります
 
 7. **コマンド バー**で、**[新規]** ボタンを選択します。 
 
-8. After the new record opens, select the drop-down arrow next to the <bpt id="p1">**</bpt>Status reason<ept id="p1">**</ept> field in the record header at the top. Set <bpt id="p1">**</bpt>Language<ept id="p1">**</ept> to <bpt id="p2">**</bpt>English - United States<ept id="p2">**</ept>.
+8. 新しいレコードが開いたら、上部のレコード ヘッダーの **[状態の理由]** フィールドの横にあるドロップダウン矢印を選択します。 **[言語]** を [**英語 - 米国]** に設定します。
 
 9. 次のように入力して、記事を完成させます。
 
@@ -69,19 +69,19 @@ lab:
 
 15. **コマンド バー**で、**[保存して閉じる]** ボタンを選択して変更を保存し、記事を閉じます。
 
-After the author initially creates the record, it will generally go through an approval process before it is live. Next, we will act as an approver and approve the article. 
+作成者が最初にレコードを作成した後、通常、ライブになる前に承認プロセスを経ます。 次に、承認者として記事を承認します。 
 
 16. 情報記事で、ビューを **[提案された記事]** に切り替えて、承認が必要な記事を確認します。 
 
 17. 作成した **[到着時に壊れたアイテム – あなたのイニシャル]** の記事を開きます。
 
-18. On the <bpt id="p1">**</bpt>New Process<ept id="p1">**</ept>, select the <bpt id="p2">**</bpt>Review<ept id="p2">**</ept> stage. Set the <bpt id="p1">**</bpt>Review<ept id="p1">**</ept> field to <bpt id="p2">**</bpt>Approved<ept id="p2">**</ept>.
+18. **[新しいプロセス]** で、**レビュー** ステージを選択します。 **[レビュー]** フィールドを **[承認済み]** に設定します。
 
 19. 記事の承認を確認するように求められたら、**[OK]** を選択します。 
 
 20. **[次のステージ]** ボタンを選択して **[公開]** ステージに進みます。 
 
-21. On the <bpt id="p1">**</bpt>Command Bar<ept id="p1">**</ept> at the top of the article, select the <bpt id="p2">**</bpt>vertical ellipsis<ept id="p2">**</ept> at the left of the command bar. From the menu that appears, select <bpt id="p1">**</bpt>Relate Product<ept id="p1">**</ept>. 
+21. 記事の上部にある**コマンド バー**で、コマンド バーの左側にある**垂直の省略記号**を選択します。 表示されるメニューで、**[製品の関連付け]** を選択します。 
 
 22. **[製品の関連付け]** ウィンドウで、**[Office 365 for Enterprise (サンプル)]** を選択します。
 
