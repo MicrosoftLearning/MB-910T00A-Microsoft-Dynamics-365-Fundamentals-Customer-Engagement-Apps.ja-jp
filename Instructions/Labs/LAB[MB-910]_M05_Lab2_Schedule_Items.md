@@ -13,7 +13,7 @@ lab:
 
   - **推定時間**:20 分
 
-  <bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> The Booking Requirements pane cannot be opened in Internet Explorer. Please use Microsoft Edge or Google Chrome to complete this exercise.
+  **注:** Internet Explorer で [予約要件] ペインを開くことはできません。 この演習を完了するために、Microsoft Edge または Google Chrome を使用してください。
   
 ## <a name="instructions"></a>Instructions
 
@@ -27,41 +27,43 @@ lab:
     - サービス アカウント:ADatum Corporation
     - プライマリ インシデントの種類:MRI スキャナーのダウン
     - 課税対象: いいえ
+    - **[保存して閉じる]** を選択して変更を保存し、新しい作業指示書を終了します。
+    - **作業指示書**の**コマンド バー**で **[予約]** ボタンを選択します。
     
-5.  **[保存して閉じる]** を選択して変更を保存し、新しい作業指示書を終了します。
+5.  これにより、**スケジュール アシスタント**が開きます。
 
-6.  On the <bpt id="p1">**</bpt>Command Bar<ept id="p1">**</ept> of the <bpt id="p2">**</bpt>Work Order<ept id="p2">**</ept>, select the <bpt id="p3">**</bpt>Book<ept id="p3">**</ept> button.  This will open the <bpt id="p1">**</bpt>Schedule Assistant<ept id="p1">**</ept>.  
+6.  アイテムをスケジュールするためのオプションが表示されます。  **Ryan Brim** のレコードを選択します。  
 
-7.  You should be presented with options for scheduling the item.  Select the <bpt id="p1">**</bpt>Ryan Brim<ept id="p1">**</ept> record.
+7.  **[ソース予約の作成]** ウィンドウで、**開始時刻**を**次の 1 時間の先頭**に設定します。  **終了時間**をその 2.5 時間後に設定します。
 
-8.  **[ソース予約の作成]** ウィンドウで、**開始時刻**を**次の 1 時間の先頭**に設定します。
+8.  **[予約して終了]** ボタンを選択してアイテムを予約し、スケジュール ウィンドウを終了します。
 
-9.  **終了時間**をその 2.5 時間後に設定します。  
+9.  作業指示書に戻ったら、**コマンド バー**の **[保存して閉じる]** ボタンをクリックします。  
 
-10. **[予約して終了]** ボタンを選択してアイテムを予約し、スケジュール ウィンドウを終了します。  
+10. 左側のナビゲーションを使用して、**[スケジュール ボード]** を選択します。  
 
-11. 作業指示書に戻ったら、**コマンド バー**の **[保存して閉じる]** ボタンをクリックします。  
+11. 要件パネルの画面下部で、**[スケジュールされていない作業指示書]** を選択します。  
 
-12. 左側のナビゲーションを使用して、**[スケジュール ボード]** を選択します。
+12. 書き留めた作業指示番号を使用して、以前に作成した **Adventure Works** の作業指示書を選択します。
 
-13. 要件パネルの画面下部で、**[スケジュールされていない作業指示書]** を選択します。
+13. 表示されるオプションから、**[空き時間の検索]** を選択します。
 
-14. Select the <bpt id="p1">**</bpt>Adventure Works<ept id="p1">**</ept> Work Order you created earlier use the work order number you wrote down. From the options that appear select <bpt id="p1">**</bpt>Find Availability<ept id="p1">**</ept>.  
+14. これにより、**スケジュール アシスタント**が開きます。 アイテムをスケジュールするためのオプションが表示されます。  
 
-15. これにより、**スケジュール アシスタント**が開きます。  
+15. Bob Kozak のレコードを選択します。  
 
-16. You should be presented with options for scheduling the item.  Select the Bob Kozak record.
+16. **[ソース予約の作成]** ウィンドウで、**開始時刻**を**次の 1 時間の先頭**に設定します。  **終了時間**をその 2.5 時間後に設定します。
 
-17. **[ソース予約の作成]** ウィンドウで、**開始時刻**を**次の 1 時間の先頭**に設定します。
+17. **[予約して終了]** ボタンを選択してアイテムを予約し、スケジュール ウィンドウを終了します。
 
-18. **終了時間**をその 2.5 時間後に設定します。
+18. 場合によっては、技術者の競合やその他の項目に基づいて作業指示書を再スケジュールする必要があります。
   
-19. **[予約して終了]** ボタンを選択してアイテムを予約し、スケジュール ウィンドウを終了します。 
+19. これは、スケジュール ボードを活用する派遣担当者によって簡単に実行できます。 
 
-20. At times, you may need to reschedule a work order based on technician conflicts or other items.  This can be easily done by dispatchers leveraging the schedule board.  
+20. スケジュール ボードの [リソースの検索] ボックス (リソース名列のすぐ上にあります) をクリックし、「Ryan」と入力して、本日遅くに Ryan にスケジュールされている作業指示書を見つけます。  作業指示書を右クリックし、表示されるメニューから **[代替リソース]** を選択し、 **[代替リソースの検索]** ボタンを選択します。  
 
-21. スケジュール ボードの [リソースの検索] ボックス (リソース名列のすぐ上にあります) をクリックし、「Ryan」と入力して、本日遅くに Ryan にスケジュールされている作業指示書を見つけます。  
+21. Click in search resources box on the schedule board (Located right above the resource name column), enter Ryan and locate the work order that is scheduled for Ryan later today.  
 
-22. 作業指示書を右クリックし、表示されるメニューから **[代替リソース]** を選択し、 **[代替リソースの検索]** ボタンを選択します。
+22. Right-click on the work order, and from the menu that appears, select <bpt id="p1">**</bpt>Substitute Resource<ept id="p1">**</ept>, select the <bpt id="p2">**</bpt>Find Substitution<ept id="p2">**</ept> button.
 
 

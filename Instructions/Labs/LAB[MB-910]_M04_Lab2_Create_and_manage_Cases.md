@@ -49,15 +49,15 @@ lab:
 
 14. **[調査]** ステージ フライアウト ウィンドウで **[X]** を選択してウィンドウを削除し、作業を続行できるようにします。 
 
-15. On the right side of the case screen, locate and select the <bpt id="p1">**</bpt>Knowledge<ept id="p1">**</ept> book Icon. (It will be directly below the <bpt id="p1">**</bpt>wrench<ept id="p1">**</ept> icon).
+15. [サポート案件] 画面の右側で、**[ナレッジ]** の本のアイコンを見つけて選択します。 (**レンチ** アイコンのすぐ下にあります)。
 
-16. Notice that the title of the case you created is automatically provided as the search text. Locate and select the <bpt id="p1">**</bpt>Item Broken on Arrival<ept id="p1">**</ept> article you created earlier. 
+16. 作成したサポート案件のタイトルが検索テキストとして自動的に提供されることに注意してください。 以前に作成した「**到着時に壊れたアイテム**」の記事を見つけて選択します。 
 
-17. The full contents of the article will be displayed, select the <bpt id="p1">**</bpt>Link this article to the current record<ept id="p1">**</ept> icon. Verify that the text <bpt id="p1">**</bpt>Linked to Case<ept id="p1">**</ept> appears. 
+17. 記事の内容がすべて表示されます。**[この記事を現在のレコードにリンク]** アイコンを選択します。 **"サポート案件にリンクされました"** というテキストが表示されることを確認します。 
 
-18. Now we will get ready to resolve the case. On the <bpt id="p1">**</bpt>Record Timeline<ept id="p1">**</ept>, hover over the <bpt id="p2">**</bpt>Return call to Patrick<ept id="p2">**</ept> Phone Call activity you created earlier. Select the mark complete <bpt id="p1">**</bpt>Check Mark Icon<ept id="p1">**</ept> to complete the activity. 
+18. サポート案件を解決する準備が整いました。 **[レコード タイムライン]** で、以前に作成した **[Patrick に折り返し電話する]** 電話アクティビティにカーソルを合わせます。 マークの完了を示す **[チェック マーク] アイコン**を選択して、アクティビティを完了します。 
 
-19. On the <bpt id="p1">**</bpt>Close Phone Call<ept id="p1">**</ept> screen, select the <bpt id="p2">**</bpt>Close<ept id="p2">**</ept> button. Verify the activity says <bpt id="p1">**</bpt>Closed<ept id="p1">**</ept>. 
+19. **[電話の終了]** 画面で、**[閉じる]** ボタンを選択します。 アクティビティに **[クローズ]** と表示されていることを確認します。 
 
 20. **[サポート案件への電話プロセス]** で、**[調査]** ステージを選択し、**[次のステージ]** を選択して、**[解決]** ステージに進みます。 
 
