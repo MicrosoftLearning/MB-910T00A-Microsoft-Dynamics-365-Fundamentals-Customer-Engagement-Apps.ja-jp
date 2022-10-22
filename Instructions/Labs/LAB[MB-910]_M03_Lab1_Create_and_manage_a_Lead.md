@@ -11,7 +11,7 @@ lab:
 
 ## <a name="objectives"></a>目標
 
-During this exercise, you will be capturing a sales lead for Suzanne Burke. She recently reached out to you and is interested in some of your organization’s products and services. Not only will you be capturing the lead in the system, but you will be using the tools available in Dynamics 365 Sales to work the lead through the qualification process.
+ここでは、Suzanne Burke の販売リードを獲得する演習を行ないます。 あなたは最近彼女から連絡を受け、彼女はあなたの組織のいくつかの製品やサービスに関心を持っています。 システムで販売リードをキャプチャするだけでなく、Dynamics 365 Sales で利用可能なツールを使用しながら、評価プロセスを通じて販売リードに取り組みます。
 
 
 ## <a name="lab-setup"></a>ラボのセットアップ
@@ -52,7 +52,7 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 5. コマンド バーの **[保存]** ボタンを選択して、新しいリードを保存し、開いたままにします。
 
-6. Notice the <bpt id="p1">**</bpt>Lead to Opportunity<ept id="p1">**</ept> Business Process Flow at the top of the record. Click the <bpt id="p1">**</bpt>Qualify Stage<ept id="p1">**</ept> to select it. Complete the stage as follows:
+6. レコードの上部に**リードから営業案件**のビジネス プロセス フローが表示されます。 **[見込み評価ステージ]** をクリックして選択します。 次のように入力して、ステージを完成させます。
 
     - **購入期間:** 今四半期
 
@@ -70,13 +70,13 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 10. **[保存して閉じる]** ボタンをクリックします。
 
-11. Notice the <bpt id="p1">**</bpt>Initial Phone Call<ept id="p1">**</ept> activity is now displayed on the <bpt id="p2">**</bpt>Record Timeline<ept id="p2">**</ept>. Hover over the activity and select the close activity <bpt id="p1">**</bpt>Check Mark Icon<ept id="p1">**</ept> to mark the phone call as completed. 
+11. **[最初の電話]** 活動が **[レコード タイムライン]** に表示されます。 活動の上にカーソルを移動し、活動の完了の**チェック マーク アイコン**を選択して、電話を完了としてマークします。 
 
 12. **[電話の終了]** ウィンドウで、**[終了]** ボタンを選択します 
 
-13. Next you will qualify the lead record.  This will create a related Opportunity record and move to the next stage of the Lead to Opportunity sales process.  On the Command Bar, select the Qualify button.  
+13. 次に、リード レコードを見込み評価します。  これにより、関連する営業案件レコードが作成され、リードから営業案件への営業プロセス ステージに移動します。  コマンド バーで、[見込み評価] ボタンを選択します。  
 
-14. After the system qualifies the lead, a new <bpt id="p1">**</bpt>Opportunity<ept id="p1">**</ept> record will be created, and the business process will advance to the <bpt id="p2">**</bpt>Develop<ept id="p2">**</ept> stage.  Select the <bpt id="p1">**</bpt>Qualify<ept id="p1">**</ept> stage to view the original lead record. 
+14. システムによってリードが見込み評価された後、新しい**営業案件**レコードが作成され、ビジネス プロセスは**開発**ステージに進みます。  元のリード レコードを表示するには、**[見込み評価]** ステージを選択します。 
 
 15. 営業案件に戻るには、**開発**ステージを選択します。
 

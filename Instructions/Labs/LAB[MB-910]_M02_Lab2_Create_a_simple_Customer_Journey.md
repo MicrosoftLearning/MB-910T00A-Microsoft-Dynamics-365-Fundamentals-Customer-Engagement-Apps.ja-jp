@@ -11,7 +11,7 @@ lab:
 
 ## <a name="objectives"></a>目標
 
-During this exercise you will see that Customer Journeys are a key component in Dynamics 365 Marketing. You will create customer journeys as a basis for any marketing effort to guide the path a customer takes while interacting with your organization's marketing process. The goal of the journey, when it is complete, is to turn them into revenue.
+この演習では、顧客体験が Dynamics 365 Marketing の重要なコンポーネントであることがわかります。 顧客が組織のマーケティング プロセスを通じてやりとりする過程で、顧客が取る経路を誘導するために、マーケティング活動の基礎として顧客体験を作成します。 顧客体験の目的は、マーケティング プロセスが完了したときに売上に変えるということです。
 
 ## <a name="lab-setup"></a>ラボのセットアップ
 
@@ -19,7 +19,7 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 ## <a name="instructions"></a>Instructions
 
-<bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Marketing Emails cannot be created or edited in Internet Explorer. Please use Microsoft Edge or Google Chrome to complete this exercise.
+**注:**  Internet Explorer でマーケティング電子メールを作成または編集することはできません。 この演習を完了するために、Microsoft Edge または Google Chrome を使用してください。
 
 **注:**  顧客体験を作成する前に、顧客体験に追加できるアクティブなメールがあることを確認する必要があります。 
 
@@ -35,15 +35,15 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 6. コマンド バーを使用して、 **[新規]** を選択します。
 
-7. The <bpt id="p1">**</bpt>New Customer Journey<ept id="p1">**</ept> page opens with the <bpt id="p2">**</bpt>Select a Customer Journey Template<ept id="p2">**</ept> dialog box shown. Select <bpt id="p1">**</bpt>Skip<ept id="p1">**</ept> to start creating the journey from scratch.
+7. **[新しい顧客体験]** ページが開き、**[顧客体験テンプレートの選択]** ダイアログ ボックスが表示されます。 **[スキップ]** を選択して、最初から顧客体験の作成を開始します。
 
-8. Select <bpt id="p1">**</bpt>Set audience<ept id="p1">**</ept> (or, alternatively, select <bpt id="p2">**</bpt><ph id="ph1">+</ph><ept id="p2">**</ept>). Select the Redmond Customers segment that you created in the previous exercise. The first tile populates with the segment name and the <bpt id="p1">**</bpt>Audience<ept id="p1">**</ept> pane displays the segment properties.
+8. **[対象者の設定]** を選択します (または **+** を選択します)。 前の演習で作成した Redmond Customers セグメントを選択します。 最初のタイルにセグメント名が表示され、**[対象者]** ペインにセグメントのプロパティが表示されます。
 
 9. キャンバスで **[+]** を選択し、コンテキスト メニューから **[メールを送信]** を選択します。
 
 10. 以前にアクティブ化した **[椅子の紹介]** メールを選択します。 
 
-11. Select the <bpt id="p1">**</bpt>General<ept id="p1">**</ept> tab located towards the top of the Customer Journey Record. Enter the following information into the <bpt id="p1">**</bpt>General<ept id="p1">**</ept> tab:
+11. 顧客体験レコードの上部にある **[全般]** タブを選択します。 **[全般]** タブに次の情報を入力します。
 
     - **[名前]** : Redmond 顧客体験
 
@@ -55,4 +55,4 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 12. コマンド バーで **[保存]** を選択し、これまでに行った作業を保存します。
 
-13. この演習では、顧客体験が Dynamics 365 Marketing の重要なコンポーネントであることがわかります。
+13. これで実行の準備が整いました。 顧客体験を開始するには、コマンド バーで **[Go Live]** を選択して公開します。

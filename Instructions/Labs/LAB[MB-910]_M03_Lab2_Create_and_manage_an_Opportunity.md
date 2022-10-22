@@ -11,7 +11,7 @@ lab:
 
 ## <a name="objectives"></a>目標
 
-During this exercise, you will be manually capturing a sales opportunity for an existing customer named Jim Glynn. He works for a company called Adventure Work. Not only will you be capturing the opportunity in the system, but you will be using the tools available in Dynamics 365 Sales to work through and close the opportunity.
+この演習では、Jim Glynn という既存の顧客への営業案件を手動で取得します。 彼は Adventure Work という会社で働いています。 システムで営業案件をキャプチャするだけでなく、Dynamics 365 Sales で利用可能なツールを使用して営業案件に取り組んで終了します。
 
 
 ## <a name="lab-setup"></a>ラボのセットアップ
@@ -66,11 +66,11 @@ During this exercise, you will be manually capturing a sales opportunity for an 
 
 12. 関係者サブグリッドで、Suzanne Burke が関係者として既に定義されているのに注目してください。 
 
-13. On the Sales Team sub-grid, select the <bpt id="p1">**</bpt>Vertical Ellipsis<ept id="p1">**</ept>. From the menu that appears select <bpt id="p1">**</bpt>New Connection<ept id="p1">**</ept>. 
+13. 営業チーム サブグリッドで、**垂直の省略記号**を選択します。 表示されるメニューから **[新しい接続]** を選択します。 
 
-14. Search for and select your user record. Once completed, select the <bpt id="p1">**</bpt>Add<ept id="p1">**</ept> button. 
+14. ユーザー レコードを検索して選択します。 完了したら、**[追加]** ボタンを選択します。 
 
-15. On the Competitors sub-grid, select the <bpt id="p1">**</bpt>Vertical Ellipsis<ept id="p1">**</ept>. From the menu that appears select <bpt id="p1">**</bpt>Add Existing Competitor<ept id="p1">**</ept>. 
+15. 競合企業サブグリッドで、**垂直の省略記号**を選択します。 表示されるメニューから **[既存の競合企業を追加]** を選択します。 
 
 16. **[レコードの検索]** 画面で、**[新しいレコード]** を選択し、**[競合企業]** を選択します。
 
@@ -78,7 +78,7 @@ During this exercise, you will be manually capturing a sales opportunity for an 
 
 18. **[保存して閉じる]** ボタンを選択します。
 
-19. <bpt id="p1">**</bpt>Coho Technologies<ept id="p1">**</ept> should be selected in the lookup record window. Select the <bpt id="p1">**</bpt>Add<ept id="p1">**</ept> button to finishing adding the competitor. 
+19. レコードの検索ウィンドウで、**[Coho Technologies]** を選択する必要があります。 **[追加]** ボタンを選択して、競合企業の追加を終了します。 
 
 20. **リードから営業案件**ビジネス プロセス フローで**開発**ステージを選択し、**関係者の特定**ステップと**競合企業の特定**ステップを両方とも**完了**に設定します。 
 
@@ -92,6 +92,6 @@ During this exercise, you will be manually capturing a sales opportunity for an 
 
 25. **[完了]** をクリックします。 
 
-26. この演習では、Jim Glynn という既存の顧客への営業案件を手動で取得します。 
+26. 業務プロセスが完了したので、営業案件をクローズする必要があります。 営業案件の**コマンド バー**で **[受注としてクローズ]** ボタンを選択します。 
 
 27. **[営業案件のクローズ]** 画面で **[OK]** ボタンをクリックして営業案件レコードのクローズを完了します。 
