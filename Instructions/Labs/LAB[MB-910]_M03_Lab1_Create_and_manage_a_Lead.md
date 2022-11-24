@@ -30,15 +30,15 @@ lab:
 
     - **トピック:** 新しい機器を探しています - あなたのイニシャル
 
-    - **First Name (名):** Suzanne
+    - **名:** Suzanne – あなたのイニシャル
 
-    - **Last Name (姓):** Burke
+    - **姓:** Burke – あなたのイニシャル
 
     - **役職:** CFO
 
     - **勤務先電話番号:** 888 555-8715
 
-    - **電子メール:** Suzanne@contososample.com
+    - **電子メール:** Suzanne.YourInitials@contososample.com
 
     - **会社:** Contoso - ワシントン
 
