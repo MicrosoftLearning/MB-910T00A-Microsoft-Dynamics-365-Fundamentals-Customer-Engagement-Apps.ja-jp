@@ -2,7 +2,7 @@
 lab:
   title: 'ラーニング パス 1 - ラボ 1.2: 顧客およびアクティビティを管理する'
   learning path: Explore the core capabilities of Microsoft Dynamics 365 customer engagement apps
-  module: 'Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps'
+  module: Describe shared activities and integration options in Dynamics 365 customer engagement apps
 ---
 
 ラーニング パス 2 - モジュール 2: Dynamics 365 顧客エンゲージメント アプリでの共有アクティビティと統合オプションについて説明する
@@ -30,11 +30,11 @@ lab:
 
 4. アカウント レコードを次のように作成します。
 
-    - **アカウント名:** Contoso Corporate
+    - **アカウント名:** Contoso Corporate (自分のイニシャル)
 
-    - **電話:** 888-555-1234
+    - **電話:** 888-555-1234 (自分のイニシャル)
 
-    - **住所 1 番地 1:** 191 181<sup data-htmlnode="">st</sup> Ave N
+    - **住所 1 番地 1:** 191 181<sup data-htmlnode="">st</sup> Ave N (自分のイニシャル)
 
     - **住所 1 市区町村:** シアトル
 
@@ -48,11 +48,11 @@ lab:
 
 7. アカウント レコードを次のように作成します。
 
-    - **アカウント名:**  Contoso North America
+    - **アカウント名:** Contoso North America (自分のイニシャル)
 
-    - **電話:** 888-555-4321
+    - **電話:** 888-555-4321 (自分のイニシャル)
 
-    - **住所 1 - 番地 1**: 187 11<sup data-htmlnode="">th</sup> ST N
+    - **住所 1 番地 1**: 187 11<sup data-htmlnode="">th</sup> ST N (自分のイニシャル)
 
     - **住所 1 市区町村:** シカゴ
 
@@ -72,11 +72,11 @@ lab:
 
     - **First Name (名):** Jackson
 
-    - **姓:** Anderson
+    - **姓:** Anderson (<自分のイニシャル>)
 
     - **役職:** CEO
 
-    - **電子メール:** [Jackson@contososample.com](mailto:Jackson@contososample.com)
+    - **電子メール:** [Jackson (自分のイニシャル)@contososample.com](mailto:Jackson@contososample.com)
 
 13. **[保存して閉じる]** ボタンを選択します。
 
@@ -88,7 +88,7 @@ lab:
 
 17. 次のように入力して、予定を完成させます。
 
-    - **Subject:** Jackson と面談する
+    - **件名:** Jackson との打ち合わせ (自分のイニシャル)
 
     - **開始時刻:** 明日の午前 10 時
 
