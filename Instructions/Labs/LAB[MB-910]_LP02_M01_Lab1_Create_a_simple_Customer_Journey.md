@@ -1,20 +1,20 @@
 ---
 lab:
   title: 'ラーニング パス 2 - ラボ 2.1: 簡単な顧客体験の作成'
-  learning path: Explore the fundamentals of Dynamics 365 Marketing
-  module: Explore Dynamics 365 Marketing
+  learning path: Explore the fundamentals of Dynamics 365 Customer Insights
+  module: Explore Dynamics 365 Customer Insights
 ---
 
-ラーニング パス 2 - モジュール 1: Dynamics 365 Marketing を調べる
+ラーニング パス 2 - モジュール 1: Dynamics 365 Customer Insights の詳細を確認する
 ========================
 
 ## 実践ラボ 2.1 - 簡単な顧客体験の作成
 
-**重要**: 講師は、トレーナー準備ガイドの「Dynamics 365 Marketing」セクションで定義されているすべてのセットアップ手順を完了していることを確認して、学生がこのラボを正しく完了できることを確認します。   
+**重要**: 講師は、トレーナー準備ガイドの「Dynamics 365 Customer Insights - Journeys」セクションで定義されているすべてのセットアップ手順を完了していることを確認して、学生がこのラボを正しく完了できることを確認します。   
 
 ## 目標
 
-この演習では、顧客体験が Dynamics 365 Marketing の重要なコンポーネントであることがわかります。 顧客が組織のマーケティング プロセスを通じてやりとりする過程で、顧客が取る経路を誘導するために、マーケティング活動の基礎として顧客体験を作成します。 顧客体験の目的は、マーケティング プロセスが完了したときに売上に変えるということです。 
+この演習では、顧客体験が Dynamics 365 Customer Insights - Journeys の重要なコンポーネントであることがわかります。 顧客が組織のマーケティング プロセスを通じてやりとりする過程で、顧客が取る経路を誘導するために、マーケティング活動の基礎として顧客体験を作成します。 顧客体験の目的は、マーケティング プロセスが完了したときに売上に変えるということです。 
 
 ## ラボのセットアップ
 
