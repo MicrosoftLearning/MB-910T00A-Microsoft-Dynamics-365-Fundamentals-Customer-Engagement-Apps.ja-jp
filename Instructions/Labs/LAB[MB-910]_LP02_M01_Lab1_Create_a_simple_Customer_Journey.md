@@ -5,12 +5,12 @@ lab:
   module: Explore Dynamics 365 Customer Insights
 ---
 
-ラーニング パス 2 - モジュール 1: Dynamics 365 Customer Insights の詳細を確認する
+ラーニング パス 2 - モジュール 1:Dynamics 365 Customer Insights について調べる
 ========================
 
 ## 実践ラボ 2.1 - 簡単な顧客体験の作成
 
-**重要**: 講師は、トレーナー準備ガイドの「Dynamics 365 Customer Insights - Journeys」セクションで定義されているすべてのセットアップ手順を完了していることを確認して、学生がこのラボを正しく完了できることを確認します。   
+**重要**:講師は、トレーナー準備ガイドの「Dynamics 365 Customer Insights - Journeys」セクションで定義されているすべてのセットアップ手順を完了していることを確認し、学生がこのラボを正しく完了できることを確かめます。   
 
 ## 目標
 

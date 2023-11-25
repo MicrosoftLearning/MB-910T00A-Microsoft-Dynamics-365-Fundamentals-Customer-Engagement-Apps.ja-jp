@@ -1,12 +1,12 @@
 ---
 demo:
-  title: 'デモ: Dynamics 365 Customer Insights の使用'
+  title: 'デモ:Dynamics 365 Customer Insights の使用'
   module: Learn the Fundamentals of Dynamics 365 Customer Insights
 ---
 
-# デモ: Dynamics 365 Customer Insights の使用
+# デモ:Dynamics 365 Customer Insights の使用
 
-## Instructions
+## 手順
 
 Dynamics 365 Customer Insights - Journeys を使うと、キャンペーンの配信と実行からイベントの管理まで、マーケティングのさまざまな側面をすべて組織で制御できます。 
 
